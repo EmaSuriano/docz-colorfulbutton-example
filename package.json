@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "docz": "^0.6.2",
+    "styled-components": "^3.3.3"
+  },
+  "name": "docz-colorfulbutton-example",
+  "description": "Example of creating a documentation site with Docz for a Medium post",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "docz dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmaSuriano/docz-colorfulbutton-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmaSuriano/docz-colorfulbutton-example/issues"
+  },
+  "homepage": "https://github.com/EmaSuriano/docz-colorfulbutton-example#readme"
+}
